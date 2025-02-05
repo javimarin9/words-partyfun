@@ -1,2 +1,2 @@
 # words-partyfun
-Public repository to use a words json
+Public repository to use a words and constants json
