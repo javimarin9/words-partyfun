@@ -1,6 +1,6 @@
 {
-	"timePerTurn": 10,
+	"timePerTurn": 30,
 	"timePenalty": 5,
-	"totalWords": 20,
+	"totalWords": 40,
 	"totalPhases": 3
 }
