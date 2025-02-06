@@ -136,23 +136,6 @@
 		"Lobo",
 		"Zorro"
 	],
-	"sentimientos": [
-		"Felicidad",
-		"Tristeza",
-		"Miedo",
-		"Enojo",
-		"Sorpresa",
-		"Amor",
-		"Vergüenza",
-		"Celos",
-		"Culpa",
-		"Orgullo",
-		"Vergüenza",
-		"Desesperación",
-		"Esperanza",
-		"Relajación",
-		"Confusión"
-	],
 	"modos_transporte": [
 		"Coche",
 		"Motocicleta",
@@ -169,5 +152,22 @@
 		"Globo aerostático",
 		"Tractor",
 		"Trolebus"
+	]
+	"videojuegos": [
+		"The Legend of Zelda",
+		"Super Mario Bros",
+		"Minecraft",
+		"Fortnite",
+		"Grand Theft Auto V",
+		"The Witcher 3: Wild Hunt",
+		"Red Dead Redemption 2",
+		"Call of Duty",
+		"Ghost of Tsushima",
+		"Assassin's Creed",
+		"FIFA",
+		"Tetris",
+		"Uncharted",
+		"God of War",
+		"The Last of Us"
 	]
 }
